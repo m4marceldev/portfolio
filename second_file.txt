@@ -1,2 +1,2 @@
-This is my second file.
-I'm really loving the the usefulness of Git. 
+This is the second file that I've added for my very first
+project.
