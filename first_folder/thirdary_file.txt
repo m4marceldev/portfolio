@@ -1,3 +1,0 @@
-This is my third file that will be used for making code changes.
-
-Git is really useful. 
