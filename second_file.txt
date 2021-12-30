@@ -1,2 +1,5 @@
-This is the second file that I've added for my very first
+This is the second file that I've added for the very first
 project.
+
+This files comes before the other third files
+Git is tracking my changes.
